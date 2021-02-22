@@ -66,7 +66,7 @@ d3.json(url).then(response => {
     case d >= -10:
       return 'green' ;
     default:
-      return '#C05900';
+      return '#FFFFFF';
   }
 }
 
